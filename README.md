@@ -2,6 +2,15 @@
 
 This template is based on [this](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) repository, however this has less bloat and also has a popup, content and background scripts.
 
+## Quickstart
+
+1. Perform any changes under `src` folder
+
+1. `yarn build`
+
+1. Install / reload extension on chrome under `chrome://extensions` (make sure you install from the `dist` folder)
+
+
 ## Recommended IDE Setup
 
 - [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
